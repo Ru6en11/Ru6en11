@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="image/Ruben11.png" />
+  <img src="image/Ruben11.png" width="400"/>
 </div>
 
 <!--
