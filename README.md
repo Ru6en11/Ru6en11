@@ -1,8 +1,10 @@
-### Hi there 👋
 
 <div id="header" align="center">
   <img src="image/Ruben11.png" width="400" height="210"/>
 </div>
+<h2 align="center">
+Hi there 👋
+</h2>
 
 <!--
 **Ru6en11/Ru6en11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
